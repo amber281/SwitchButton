@@ -84,16 +84,3 @@ More Style:
 <attr name="sb_show_indicator" format="reference|boolean"/>        是否显示指示器，默认true：显示
 <attr name="sb_background" format="reference|color"/>              背景色，默认白色
 <attr name="sb_enable_effect" format="reference|boolean"/>         是否启用特效，默认true
-```
-
-
-ScreenShot
--------
-<a href="https://github.com/zcweng/SwitchButton/blob/master/sample/sample-debug.apk">Sample Apk:</a><br>
-![](http://qr.api.cli.im/qr?data=https%253A%252F%252Fgithub.com%252Fzcweng%252FSwitchButton%252Fblob%252Fmaster%252Fsample%252Fsample-debug.apk&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=8144f9f150d38d7d364c923d0b9c87cf)<br>
-![](device-capture.png)
-
-
-License
--------
-MIT, See the <a href="https://github.com/zcweng/SwitchButton/blob/master/LICENSE">[LICENSE]</a> file for details.
